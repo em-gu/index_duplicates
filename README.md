@@ -1,4 +1,4 @@
 index_duplicates
 ================
 
-Process index.ttx
+Process index.txt
